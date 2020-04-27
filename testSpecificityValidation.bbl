@@ -1,0 +1,278 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Arslan%
+, Ya{\c{s}}ar%
+, {\c{C}}olak%
+\BCBL {}\ \BBA {} YOLO{\u{G}}LUa%
+}{%
+Arslan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+arslan2018wsspas}
+\APACinsertmetastar {%
+arslan2018wsspas}%
+\begin{APACrefauthors}%
+Arslan, A\BPBI K.%
+, Ya{\c{s}}ar, {\c{S}}.%
+, {\c{C}}olak, C.%
+\BCBL {}\ \BBA {} YOLO{\u{G}}LUa, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {WSSPAS: An Interactive Web Application for Sample Size
+  and Power Analysis with R Using Shiny.} {Wsspas: An interactive web
+  application for sample size and power analysis with r using shiny.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Turkiye Klinikleri Journal of Biostatistics}{10}{3}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Campbell%
+, Julious%
+\BCBL {}\ \BBA {} Altman%
+}{%
+Campbell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1995}}%
+}]{%
+campbell1995estimating}
+\APACinsertmetastar {%
+campbell1995estimating}%
+\begin{APACrefauthors}%
+Campbell, M\BPBI J.%
+, Julious, S\BPBI A.%
+\BCBL {}\ \BBA {} Altman, D\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Estimating sample sizes for binary, ordered categorical,
+  and continuous outcomes in two group comparisons} {Estimating sample sizes
+  for binary, ordered categorical, and continuous outcomes in two group
+  comparisons}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bmj}{311}{7013}{1145--1148}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chernick%
+\ \BBA {} Liu%
+}{%
+Chernick%
+\ \BBA {} Liu%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+chernick2002saw}
+\APACinsertmetastar {%
+chernick2002saw}%
+\begin{APACrefauthors}%
+Chernick, M\BPBI R.%
+\BCBT {}\ \BBA {} Liu, C\BPBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The saw-toothed behavior of power versus sample size and
+  software solutions: single binomial proportion using exact methods} {The
+  saw-toothed behavior of power versus sample size and software solutions:
+  single binomial proportion using exact methods}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The American Statistician}{56}{2}{149--155}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chu%
+\ \BBA {} Cole%
+}{%
+Chu%
+\ \BBA {} Cole%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+chu2007sample}
+\APACinsertmetastar {%
+chu2007sample}%
+\begin{APACrefauthors}%
+Chu, H.%
+\BCBT {}\ \BBA {} Cole, S\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sample size calculation using exact methods in
+  diagnostic test studies} {Sample size calculation using exact methods in
+  diagnostic test studies}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Clinical Epidemiology}{60}{11}{1201--1202}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Flahault%
+, Cadilhac%
+\BCBL {}\ \BBA {} Thomas%
+}{%
+Flahault%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+flahault2005sample}
+\APACinsertmetastar {%
+flahault2005sample}%
+\begin{APACrefauthors}%
+Flahault, A.%
+, Cadilhac, M.%
+\BCBL {}\ \BBA {} Thomas, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sample size calculation should be performed for design
+  accuracy in diagnostic test studies} {Sample size calculation should be
+  performed for design accuracy in diagnostic test studies}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of clinical epidemiology}{58}{8}{859--862}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fleiss%
+, Tytun%
+\BCBL {}\ \BBA {} Ury%
+}{%
+Fleiss%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1980}}%
+}]{%
+fleiss1980simple}
+\APACinsertmetastar {%
+fleiss1980simple}%
+\begin{APACrefauthors}%
+Fleiss, J\BPBI L.%
+, Tytun, A.%
+\BCBL {}\ \BBA {} Ury, H\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1980}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A simple approximation for calculating sample sizes for
+  comparing independent proportions} {A simple approximation for calculating
+  sample sizes for comparing independent proportions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biometrics}{}{}{343--346}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hajian-Tilaki%
+}{%
+Hajian-Tilaki%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+hajian2014sample}
+\APACinsertmetastar {%
+hajian2014sample}%
+\begin{APACrefauthors}%
+Hajian-Tilaki, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sample size estimation in diagnostic test studies of
+  biomedical informatics} {Sample size estimation in diagnostic test studies of
+  biomedical informatics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of biomedical informatics}{48}{}{193--204}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kohl%
+}{%
+Kohl%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+kohl2019Rpackage}
+\APACinsertmetastar {%
+kohl2019Rpackage}%
+\begin{APACrefauthors}%
+Kohl, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{MKmisc}: Miscellaneous functions from {M}. {K}ohl}
+  {{MKmisc}: Miscellaneous functions from {M}. {K}ohl}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{http://www.stamats.de} \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.6}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Machin%
+, Campbell%
+, Fayers%
+\BCBL {}\ \BBA {} Pinol%
+}{%
+Machin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1997}}%
+}]{%
+machin1997sample}
+\APACinsertmetastar {%
+machin1997sample}%
+\begin{APACrefauthors}%
+Machin, D.%
+, Campbell, M.%
+, Fayers, P.%
+\BCBL {}\ \BBA {} Pinol, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sample size tables for clinical studies. 1997} {Sample
+  size tables for clinical studies. 1997}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Malden, MA: Blackwell Science}{2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{R Core Team}%
+}{%
+{R Core Team}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Rcoreteam2020R}
+\APACinsertmetastar {%
+Rcoreteam2020R}%
+\begin{APACrefauthors}%
+{R Core Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {R: A Language and Environment for Statistical Computing}
+  {R: A language and environment for statistical computing}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACaddressPublisher{Vienna, Austria}{}.
+\newblock
+\begin{APACrefURL} \url{https://www.R-project.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
